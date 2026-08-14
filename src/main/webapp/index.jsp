@@ -78,8 +78,8 @@
             e.printStackTrace();
         }
     %>
- 
-    
+
+    <p style="color: green;"><b>A new log entry was just added to /usr/local/tomcat/logs/app.log!</b></p>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
