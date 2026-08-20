@@ -25,8 +25,7 @@
         Test Script using ansible to build image and push to dockerhub and run playbook to deploy the image to the container in docker server
       </h1>
       <p class="lead">
-        This is a very simple website template that uses bootstrap CSS
-        framework! This is a new code to push for the github SCM poll!
+        Just change the ip in webhook and commit again to trigger the webhook to run the ansible playbook to build the image and push to dockerhub and deploy the image to the container in docker server
       </p>
       <p class="lead">
         This website is build automatically by Jenkins!!! Yeahhhh!!! New Test
