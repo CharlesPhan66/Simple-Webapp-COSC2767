@@ -22,8 +22,7 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">
-        Test Script using docker stop tomcat-container--simpleAppWeb || true
-        instead of if block
+        Test Script using ansible to build image and push to dockerhub and run playbook to deploy the image to the container in docker server
       </h1>
       <p class="lead">
         This is a very simple website template that uses bootstrap CSS
